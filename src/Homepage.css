@@ -1,0 +1,16 @@
+.Homepage{
+    background-image: url('https://img.pikbest.com/png-images/qiantu/cartoon-office-worker-talking-about-work-png_2727583.png!sw800');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: absolute;
+    height:100%;
+    width:100%;
+    
+}
+
+.title{
+
+    margin-top:2%;
+}
+
+
